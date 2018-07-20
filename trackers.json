@@ -31,10 +31,6 @@
         "constrained": false,
         "name": "SiamFC"
     },
-    "siamfc_det": {
-        "constrained": false,
-        "name": "SiamFCDet"
-    },
     "siamfc_redetect": {
         "constrained": false,
         "name": "SiamFC+R"

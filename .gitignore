@@ -5,3 +5,10 @@ __pycache__
 *.tgz
 *.gz
 *.zip
+*.pdf
+*.png
+analysis/*/open_minus_constrained
+# These rules will not include files below excluded directories:
+!analysis/**/tpr_tnr_iou_0d5_bootstrap.png
+!analysis/**/tpr_time_iou_0d5_interval_before_bootstrap.png
+!analysis/**/tpr_time_iou_0d5_interval_after_bootstrap.png
