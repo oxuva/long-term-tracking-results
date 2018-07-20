@@ -1,0 +1,46 @@
+{
+    "MDNet": {
+        "constrained": false,
+        "name": "MDNet"
+    },
+    "Staple": {
+        "constrained": true,
+        "name": "Staple"
+    },
+    "bacf": {
+        "constrained": true,
+        "name": "BACF"
+    },
+    "ebt": {
+        "constrained": true,
+        "name": "EBT"
+    },
+    "eco-hc": {
+        "constrained": true,
+        "name": "ECO-HC"
+    },
+    "lct": {
+        "constrained": true,
+        "name": "LCT"
+    },
+    "opentld": {
+        "constrained": true,
+        "name": "TLD"
+    },
+    "siamfc": {
+        "constrained": false,
+        "name": "SiamFC"
+    },
+    "siamfc_det": {
+        "constrained": false,
+        "name": "SiamFCDet"
+    },
+    "siamfc_redetect": {
+        "constrained": false,
+        "name": "SiamFC+R"
+    },
+    "sint": {
+        "constrained": false,
+        "name": "SINT"
+    }
+}
