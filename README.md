@@ -1,3 +1,5 @@
+**Note**: the results of this page are updated (roughly once a month) according to [this schedule](https://docs.google.com/document/d/1BtoMzxMGfKMM7DtYOm44dXNr18HrG5CqN9cyxDAem-M/edit).
+
 *TODO: Show plots for test set rather than dev set.*
 
 ## Constrained challenge
