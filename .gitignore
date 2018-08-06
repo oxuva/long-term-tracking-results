@@ -12,3 +12,4 @@ analysis/*/open_minus_constrained
 !analysis/**/tpr_tnr_iou_0d5_bootstrap.png
 !analysis/**/tpr_time_iou_0d5_interval_before_bootstrap.png
 !analysis/**/tpr_time_iou_0d5_interval_after_bootstrap.png
+visualize
